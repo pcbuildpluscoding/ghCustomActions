@@ -1,0 +1,6 @@
+name: Deploy to ASW S3
+description: deploy a static website via AWS S3
+runs:
+  using: node16
+  main: main.js
+  
